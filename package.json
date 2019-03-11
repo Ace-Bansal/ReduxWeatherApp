@@ -1,5 +1,6 @@
 {
   "name": "redux-simple-starter",
+  "homepage": "https://priceless-clarke-9b5aad.netlify.com/",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
