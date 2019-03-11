@@ -2,7 +2,7 @@ module.exports = {
   entry: ['./src/index.js'],
   output: {
     path: __dirname,
-    publicPath: '/',
+    publicPath: 'https://priceless-clarke-9b5aad.netlify.com/',
     filename: 'bundle.js'
   },
   module: {
